@@ -1,5 +1,7 @@
 # EEG Brainwave Analysis System
 
+![EEG Brainwave Visualization](wave.png)
+
 A comprehensive Python-based system for collecting, analyzing, and visualizing EEG (electroencephalography) brainwave data from various headsets. This project provides real-time brain-computer interface (BCI) capabilities with practical applications.
 
 ## 🧠 Features
