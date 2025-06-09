@@ -21,6 +21,14 @@ A comprehensive Python-based system for collecting, analyzing, and visualizing E
 | Emotiv Insight/EPOC | $300-800 | 5-14 | Emotion detection, research |
 | OpenBCI Cyton | $500-1000 | 8-16 | Research, full EEG mapping |
 
+## 🎬 Demo Video
+
+Watch the EEG Brainwave Analysis System in action:
+
+https://github.com/user-attachments/assets/newwave.mov
+
+*This video demonstrates real-time EEG data collection, analysis, and visualization using the brainwave analysis system.*
+
 ## 🚀 Quick Start
 
 ### 1. Installation
